@@ -37,12 +37,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Experiência em Destaque
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JoaoLuisVagos&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuisVagos&layout=compact&theme=radical" />
-</p>
+🧠 Com anos de prática em desenvolvimento de software, já atuei em diversos projetos de alto impacto — especialmente no desenvolvimento de:
+
+- 🔧 Sistemas ERP sob medida
+- 🛍️ Plataformas de e-commerce com foco em performance
+- 🔄 Integrações entre APIs RESTful
+- 📈 Dashboards administrativos e ferramentas internas
+- ⚙️ Otimizações de back-end e banco de dados
+
+Trabalho focado em **qualidade, organização e entregas reais**. Valorizo código limpo, colaboração e melhoria contínua.
+
 
 ---
 
