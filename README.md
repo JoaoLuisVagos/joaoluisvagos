@@ -24,19 +24,19 @@
 ### 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000" />
-  <img src="https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000" />
-  <img src="https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=000" />
-  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000" />
-  <img src="https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000" />
-  <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000" />
-  <img src="https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=000" />
-  <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000" />
-  <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=000" />
-  <img src="https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000" />
-  <img src="https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000" />
-  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000" />
-  <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000" />
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker" />
 </div>
 
 ---
