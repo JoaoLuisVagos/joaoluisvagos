@@ -67,7 +67,7 @@
 
 ### 🧾 Certificações
 
-- 🚀 Santander Bootcamp Java (em andamento)
+- 🚀 Santander Bootcamp Java 2025
 - 📘 Fundamentos da Linguagem de Programação Java, Introdução ao Java e seu Ambiente de Desenvolvimento, Versionamento de código com Git e GitHub (DIO)
 - 📘 PHP, JavaScript, HTML5, MySQL, Git & GitHub – Curso em Vídeo
 
