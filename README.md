@@ -66,11 +66,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io"></a>
-  <a href="mailto:joaoluisvagos@gmail.com" target="_blank"><img src="https://shields.io"></a>
-</p>
-
----
-
 <p align="center"><i>"Código limpo, entrega de valor e aprendizado contínuo."</i></p>
