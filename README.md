@@ -1,90 +1,76 @@
 <h1 align="center">👋 Olá, eu sou João Luis<br>Desenvolvedor Full Stack</h1>
 
 <p align="center">
-  Apaixonado por transformar ideias em soluções escaláveis e seguras.<br>
-  Experiência internacional em APIs, sistemas ERP, e-commerce e automação de processos.
+  <strong>Transformando ideias em soluções escaláveis e seguras.</strong><br>
+  Especialista em APIs, sistemas ERP e automação com sólida experiência internacional.
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🧑‍💻 Sobre Mim
 
-- Experiência internacional em projetos web e sistemas corporativos  
-- Desenvolvimento end-to-end de aplicações (frontend, backend e infraestrutura)  
-- APIs RESTful, integrações seguras e otimização de performance  
-- Frontend moderno com React.js, Vue.js e TypeScript  
-- Backend robusto com PHP, Python e Node.js  
-- Banco de dados MySQL e MongoDB, monitoramento com Grafana  
-- Docker, AWS S3 e práticas de CI/CD  
-- Metodologias ágeis, Git e versionamento limpo  
+- 🌍 **Experiência Internacional:** Atuação em projetos nos EUA e times globais.
+- 🚀 **Full Stack:** Desenvolvimento end-to-end com foco em performance e UX.
+- 🛠️ **Arquitetura:** Domínio em Docker, AWS S3 e CI/CD para ambientes robustos.
+- 📈 **Monitoramento:** Gestão de estabilidade via Grafana e RabbitMQ.
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias & Skills
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js" />
-  <img src="https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/-MongoDB-333?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/-Grafana-333?style=for-the-badge&logo=grafana" />
-  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git" />
-</div>
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `JavaScript` `TypeScript` `PHP` `Python` `Java` `C#` |
+| **Frontend** | `React.js` `Vue.js` `Angular.js` `Tailwind` `Bootstrap` |
+| **Backend** | `Node.js` `Laravel` `FastAPI` `Bottle` `REST APIs` |
+| **Infra/Cloud** | `Docker` `AWS S3` `Linux` `Git` `CI/CD` |
+| **Bancos de Dados**| `MySQL` `MongoDB` `PostgreSQL` |
 
 ---
 
-### 💼 Experiência
+### 💼 Experiência de Destaque
 
-#### 💻 InEvent (Remoto, EUA) – Out/2024 a Jul/2025  
-- Desenvolvimento e manutenção de APIs em **PHP/MySQL**, otimizando rotas e integrando sistemas externos  
-- Implementação de módulos em **Vue.js**, garantindo responsividade e escalabilidade  
-- Revisão de código e melhoria de processos, reduzindo tempo de execução  
-- Colaboração com equipes internacionais em ambiente ágil  
+#### 🇺🇸 InEvent | Desenvolvedor Júnior (Remoto EUA)
+*Out 2024 — Jul 2025*
+- **Backend:** Otimização de APIs em PHP e MySQL.
+- **Frontend:** Criação de componentes escaláveis em Vue.js.
+- **Impacto:** Redução significativa no tempo de resposta das rotas principais.
 
-#### 🧪 Freelancer – FmConsult – Mar/2024 a Out/2024  
-- Desenvolvimento **end-to-end** de sistema de leilão de imóveis nos EUA  
-- Backend em **Python (Bottle)** e **Node.js** para workers e SDKs  
-- Banco de dados **MongoDB** e integração com front-end em **React.js + TypeScript**  
-- Utilização de **Docker** e **AWS S3** para infraestrutura e armazenamento de imagens  
+#### 🏠 FmConsult | Full Stack Freelancer (Projeto EUA)
+*Mar 2024 — Out 2024*
+- **Projeto:** Sistema de leilão de imóveis de ponta a ponta.
+- **Stack:** Python (Bottle), Node.js, React e MongoDB.
+- **Infra:** Containerização total com Docker e armazenamento em AWS S3.
 
-#### 🏢 CR Nutrition – Fev/2022 a Mar/2024  
-- Desenvolvimento de módulos completos para fábrica e financeiro  
-- Correção de bugs críticos em produção com deploy via Linux  
-- Monitoramento de servidores com **Grafana** e gestão de filas com **RabbitMQ**  
-- Frontend em **React.js/Angular.js** e backend em **PHP/Python/Node.js**  
-
----
-
-### 📚 Formação
-
-🎓 **Gestão de Tecnologia da Informação** – Universidade Cruzeiro do Sul  
-📍 Atibaia – Jan/2021 a Mai/2023  
+#### 🏭 CR Nutrition | Desenvolvedor Júnior
+*Fev 2022 — Mar 2024*
+- **Sistemas:** Desenvolvimento de módulos ERP para fábrica e financeiro.
+- **DevOps:** Monitoramento em tempo real com Grafana e filas com RabbitMQ.
 
 ---
 
-### 🧾 Certificações
+### 🎓 Formação & Certificados
 
-- 🚀 Santander Bootcamp Java 2025  
-- 📊 Santander 2025 – Ciência de Dados com Python  
-- 📘 Curso em Vídeo – PHP, JavaScript, HTML5, CSS3, MySQL, Git & GitHub  
-
----
-
-### 🌐 Contato
-
-- ✉️ **Email:** joaoluisvagos@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/joao-luis-de-almeida-vagos-531a61244](https://linkedin.com/in/joao-luis-de-almeida-vagos-531a61244)  
-- 🖥️ **GitHub:** [github.com/joaoluisvagos](https://github.com/joaoluisvagos)  
+- 🎓 **Gestão de TI** — Universidade Cruzeiro do Sul (2021-2023)
+- ☕ **Santander Bootcamp Java 2025** — DIO
+- 🐍 **Ciência de Dados com Python** — Santander
+- 🌐 **Inglês Técnico Intermediário** (Atuação em reuniões internacionais)
 
 ---
 
-<p align="center"><i>“Código de verdade entrega valor. Rápido, seguro e com propósito.”</i></p>
+### 🌐 Conecte-se Comigo
+
+- ✉️ **Email:** [joaoluisvagos@gmail.com](mailto:joaoluisvagos@gmail.com)
+- 💼 **LinkedIn:** [João Luis de Almeida Vagos](https://linkedin.com/in/joao-luis-de-almeida-vagos-531a61244)
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io"></a>
+  <a href="mailto:joaoluisvagos@gmail.com" target="_blank"><img src="https://shields.io"></a>
+</p>
+
+---
+
+<p align="center"><i>"Código limpo, entrega de valor e aprendizado contínuo."</i></p>
